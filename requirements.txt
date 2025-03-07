@@ -1,0 +1,11 @@
+streamlit
+pytesseract
+opencv-python
+pdf2image
+requests
+numpy
+pillow
+poppler-utils
+tesseract-ocr
+ghostscript
+PyMuPDF
